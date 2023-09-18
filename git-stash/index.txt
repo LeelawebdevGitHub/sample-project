@@ -1,1 +1,3 @@
-something changed
+
+index file changes
+Stashed changes
